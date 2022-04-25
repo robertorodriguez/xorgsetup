@@ -1,0 +1,2 @@
+#!/bin/bash
+(echo `dumpkeys |grep -i keymaps`; echo keycode 58 = Control) |loadkeys
