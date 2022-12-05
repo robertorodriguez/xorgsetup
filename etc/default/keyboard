@@ -3,8 +3,8 @@
 # Consult the keyboard(5) manual page.
 
 XKBMODEL="pc105"
-XKBLAYOUT="us"
-XKBVARIANT="dvorak"
-XKBOPTIONS="compose:ralt,ctrl:nocaps,lv3:ralt_switch"
+XKBLAYOUT="latam"
+XKBVARIANT=""
+XKBOPTIONS="ctrl:nocaps"
 
 BACKSPACE="guess"
